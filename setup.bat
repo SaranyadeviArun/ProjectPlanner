@@ -1,0 +1,1 @@
+set path=%path%;C:\softwares\apache-maven-3.6.2-bin\apache-maven-3.6.2\bin;
